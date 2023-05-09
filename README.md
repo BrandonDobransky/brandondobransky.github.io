@@ -12,4 +12,4 @@ This project included two JS buttons which allowed me to create varrying sized p
 ## Big Eyes Repo
 This project involved two eyes that tracked your mouse movement around the page. 
 
-<a href= ""> Big Eyes</a>
+<a href= "https://brandondobransky.github.io/BigEyes/"> Big Eyes</a>
