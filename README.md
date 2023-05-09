@@ -1,4 +1,4 @@
-# My Portfolio
+My Portfolio
 ## Webpage
 In the spirit of March Madness, here is my first webpage activity in which I created a basic webpage in my MITxPro Course. I am working towards a Professional Certificate in Coding.
 
