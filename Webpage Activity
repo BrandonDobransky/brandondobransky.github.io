@@ -1,0 +1,21 @@
+<html>
+<head>
+<style> 
+body {
+ background-color:crimson;
+}
+</style>
+</head>
+</body>
+
+<h1 style="font-size:40px;">It's the greatest time of the year!</h1>
+<h2 style="font-size:30px;">Make your picks now!</h2>
+<p>Who is going to win it all?</p>
+<ul>
+    <li>A Cinderella Hopeful?</lil>
+    <li>A Bluechip Powerhouse?</li>
+    <li>A Mid-Major Surprise?</li>
+</ul>
+<img src="madnesslogo.jpg">
+<a href="https://www.ncaa.com/march-madness-live/bracket">Print one here!</a>
+
